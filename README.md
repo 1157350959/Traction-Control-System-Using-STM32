@@ -9,3 +9,10 @@ C programming is used to accomplish speed control of a brushed DC motor using cl
 
 ## Future Work
 While dynamic control was achieved in the context of “mode switching”, further improvements to the posited design could be made in terms of a more realistic implementation of cruise control; future work includes noise reduction, utilization of prioritized interrupts, and more realistic physical prototyping.  
+
+## References
+[1] Mazidi, Muhammad Ali, et. al., ARM Assembly Language Programming & Architecture. MicroDigitalEd, 2016.
+
+[2] Mazidi, Muhammad Ali, et. al., STM32 ARM Programming for Embedded Systems Using C Language with STM32 Nucleo. MicroDigitalEd, 2016.
+
+[3] RM0390 Reference Manual: STM32F446xx advanced Arm-based 32-bit MCUs, 6th ed. STMicroelectronics., Geneva, Switzerland, 2021.
