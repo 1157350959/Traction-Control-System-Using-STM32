@@ -7,5 +7,5 @@ Microcontrollers have become ubiquitous in the world of modern electronics. Typi
 ## Software
 C programming is used to accomplish speed control of a brushed DC motor using closed-loop control feedback based on proportional-integral-derivative (PID) control theory and pulse-width modulation (PWM). Utilizing the STM32’s nested vector interrupt controller (NVIC), low-latency exception and (external) interrupt handling was shown to be a feasible and tractable solution to processing mode switching.
 
-##Future Work
+## Future Work
 While dynamic control was achieved in the context of “mode switching”, further improvements to the posited design could be made in terms of a more realistic implementation of cruise control; future work includes noise reduction, utilization of prioritized interrupts, and more realistic physical prototyping.  
